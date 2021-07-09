@@ -5,13 +5,20 @@
 - 💬 How to reach me: hamidgokce@gmail.com 
 
 
+<br>
+
+<br>
 
 
 <h3 align="left">🌱 Social:</h3>
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhamid-gokce/)
+
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hamidgokce@gmail.com)
 
+<br>
 
+<br>
 
 
 
@@ -19,8 +26,10 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hamidgokce&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidgokce&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidgokce&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
+<br>
+
+<br>
 
 
 <h3 align="left">💻 ⚙ Languages and Tools:</h3>
