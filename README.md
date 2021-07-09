@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm ABDULHAMID GOKCE</h1>
-<h3 align="center">An individual who tries to improve and update himself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast</h3>
+<h3 align="center">Hi 👋, I'm ABDULHAMID GOKCE</h3>
+
 
 - 🔭 I’m currently working on **AWS & DevOPs**
+- An individual who tries to improve and update himself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
+- 💬 How to reach me: hamidgokce@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdulhamid gokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulhamid gokce" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Abdulhamid Gokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulhamid Gokce" height="20" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
