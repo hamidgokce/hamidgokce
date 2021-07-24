@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm ABDULHAMID GOKCE</h3>
 
 - 🔭 I’m currently working on **AWS & DevOPs**
-- An individual who tries to improve and update himself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
+- An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
 - 💬 How to reach me: hamidgokce@gmail.com 
 
 
