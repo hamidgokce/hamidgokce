@@ -26,7 +26,7 @@
 <p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidgokce&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=hamidgokce&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <br>
 
 <br>
