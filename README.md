@@ -12,6 +12,96 @@
 
  <hr>
  
+
+
+# Here are some of my projects that I think you might be interested!⚡ 
+
+This repository shows the projects I have completed during my education at Clarusway. Repo is build for all my portfolios and projects.
+
+## Python Hands-on Trainings
+
+List of hands-on trainings within Python workshop as follows;
+
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
+
+- ### [Creating First Flask Application - Hello World](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
+
+- ### [Handling Routes and Templates with Flask Web Application](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Portfolio/flask-03-handling-routes-and-if-for/README.md)
+
+- ### [Handling Routes and Templates with Flask Web Application](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Portfolio/flask-04-handling-forms-POST-GET-Methods/README.md)
+
+- ### [Handling Forms and SQL with Flask Web Application](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Portfolio/flask-05-Handling-SQL-with-Flask-Web-Application/README.md)
+
+## AWS Projects
+
+List of projects as follows;
+
+- ### [Project-101-Kittens-carousel-static-website-ec2](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/README.md)
+
+<!--![Pro_Project_101.png](./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png" width="65%">
+
+- ### [Project-102-Roman-Numerals-Converter](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-102-Roman-Numerals-Converter/README.md)
+
+<!--![Project_001.png](./AWS/Project-102-Roman-Numerals-Converter/Project_001.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-102-Roman-Numerals-Converter/Project_001.png" width="65%">
+
+- ### [Project-103-Phonebook-Application](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-103-Phonebook-Application/README.md)
+
+<!--![003_phonebook.png](./AWS/Project-103-Phonebook-Application/003_phonebook.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-103-Phonebook-Application/003_phonebook.png" width="65%">
+
+- ### [Project-104-Kittens-carousel-static-web-s3-cf](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/README.md)
+
+<!--![Project_006.png](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png" width="65%">
+
+- ### [Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/README.md)
+
+<!--![capstone.jpg](./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg" width="65%">
+
+
+## DevOps Projects
+
+List of projects as follows;
+
+- ### [201-Create-Apache-Servers-with-Terraform](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/201-Create-Apache-Servers-with-Terraform/README.md)
+
+<!--![tf-draw.png](./DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png" width="65%">
+
+- ### [202-Terraform-Phonebook-Application-deployed-on-AWS](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/README.md)
+
+<!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png" width="65%">
+
+- ### [203-dockerization-bookstore-api-on-python-flask-mysql]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+- ### [205-jenkins-pipeline-for-phonebook-app-on-docker-swarm]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+- ### [206-Kubernetes-Microservice-Phonebook]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+- ### [207-Ansible-publish-website-postgresql-nodejs-react]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+- ### [502-microservices-ci-cd-pipeline-with-database]()
+
+![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+
+
+
  **Languages and Tools:**
  
  <p>
@@ -38,95 +128,4 @@
 </p>
 
 
-### Here are some of my projects that I think you might be interested! ⚡ 
-
-This repository shows the projects I have completed during my education at Clarusway. Repo is build for all my portfolios and projects.
-
-## Python Hands-on Trainings
-
-List of hands-on trainings within Python workshop as follows;
-
-<!--![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)-->
-<img src="./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png" width="20%">
-
-- ### [Creating First Flask Application - Hello World](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/README.md)
-
-- ### [Handling Routes and Templates with Flask Web Application](./AWS/Portfolio/flask-03-handling-routes-and-if-for/README.md)
-
-- ### [Handling Routes and Templates with Flask Web Application](./AWS/Portfolio/flask-04-handling-forms-POST-GET-Methods/README.md)
-
-- ### [Handling Forms and SQL with Flask Web Application](./AWS/Portfolio/flask-05-Handling-SQL-with-Flask-Web-Application/README.md)
-
-## AWS Projects
-
-List of projects as follows;
-
-- ### [Project-101-Kittens-carousel-static-website-ec2](./AWS/Project-101-Kittens-carousel-static-website-ec2/README.md)
-
-<!--![Pro_Project_101.png](./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png)-->
-<img src="./AWS/Project-101-Kittens-carousel-static-website-ec2/Pro_Project_101.png" width="65%">
-
-- ### [Project-102-Roman-Numerals-Converter](./AWS/Project-102-Roman-Numerals-Converter/README.md)
-
-<!--![Project_001.png](./AWS/Project-102-Roman-Numerals-Converter/Project_001.png)-->
-<img src="./AWS/Project-102-Roman-Numerals-Converter/Project_001.png" width="65%">
-
-- ### [Project-103-Phonebook-Application](./AWS/Project-103-Phonebook-Application/README.md)
-
-<!--![003_phonebook.png](./AWS/Project-103-Phonebook-Application/003_phonebook.png)-->
-<img src="./AWS/Project-103-Phonebook-Application/003_phonebook.png" width="65%">
-
-- ### [Project-104-Kittens-carousel-static-web-s3-cf](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/README.md)
-
-<!--![Project_006.png](./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png)-->
-<img src="./AWS/Project-104-Kittens-carousel-static-web-s3-cf/Project_006.png" width="65%">
-
-- ### [Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment](./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/README.md)
-
-<!--![capstone.jpg](./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg)-->
-<img src="./AWS/Project-501-Capstone-Project-Blog-Page-App-(Django)-on-AWS-Environment/capstone.jpg" width="65%">
-
-
-## DevOps Projects
-
-List of projects as follows;
-
-- ### [201-Create-Apache-Servers-with-Terraform](./DevOps/201-Create-Apache-Servers-with-Terraform/README.md)
-
-<!--![tf-draw.png](./DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png)-->
-<img src="./DevOps/201-Create-Apache-Servers-with-Terraform/tf-draw.png" width="65%">
-
-- ### [202-Terraform-Phonebook-Application-deployed-on-AWS](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/README.md)
-
-<!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
-<img src="./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png" width="65%">
-
-- ### [203-dockerization-bookstore-api-on-python-flask-mysql](./DevOps/203-dockerization-bookstore-api-on-python-flask-mysql/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql](./DevOps/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-- ### [205-jenkins-pipeline-for-phonebook-app-on-docker-swarm](./DevOps/205-jenkins-pipeline-for-phonebook-app-on-docker-swarm/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-- ### [206-Kubernetes-Microservice-Phonebook](./DevOps/206-Kubernetes-Microservice-Phonebook/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-- ### [207-Ansible-publish-website-postgresql-nodejs-react](./DevOps/207-Ansible-publish-website-postgresql-nodejs-react/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-- ### [502-microservices-ci-cd-pipeline-with-database](./DevOps/502-microservices-ci-cd-pipeline-with-database/README.md)
-
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
-
-<hr>
-
-![snake gif](https://github.com/MelekAlan/hamidgokce/blob/output/github-contribution-grid-snake.gif)
 
