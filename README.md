@@ -81,26 +81,25 @@ List of projects as follows;
 <!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/203-dockerization-bookstore-api-on-python-flask-mysql/203-bookstore-api.png" width="65%">
 
-- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql]()
+- ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/README.md)
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql/project-204.png" width="65%">
 
-- ### [205-jenkins-pipeline-for-phonebook-app-on-docker-swarm]()
+- ### [205-jenkins-pipeline-for-phonebook-app-on-docker-swarm](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/205-jenkins-pipeline-for-phonebook-app-on-docker-swarm/README.md)
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/205-jenkins-pipeline-for-phonebook-app-on-docker-swarm/Project_205.png" width="65%">
 
-- ### [206-Kubernetes-Microservice-Phonebook]()
+- ### [206-Kubernetes-Microservice-Phonebook](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/206-Kubernetes-Microservice-Phonebook/README.md)
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/206-Kubernetes-Microservice-Phonebook/Microservice_structure.png" width="65%">
 
-- ### [207-Ansible-publish-website-postgresql-nodejs-react]()
+- ### [207-Ansible-publish-website-postgresql-nodejs-react](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/207-Ansible-publish-website-postgresql-nodejs-react/README.md)
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/207-Ansible-publish-website-postgresql-nodejs-react/ansible.png" width="65%">
 
-- ### [502-microservices-ci-cd-pipeline-with-database]()
+- ### [502-microservices-ci-cd-pipeline-with-database](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/502-microservices-ci-cd-pipeline-with-database/README.md)
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
-
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/502-microservices-ci-cd-pipeline-with-database/pipeline.png" width="65%">
 
 
  **Languages and Tools:**
