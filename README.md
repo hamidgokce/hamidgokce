@@ -78,7 +78,8 @@ List of projects as follows;
 
 - ### [203-dockerization-bookstore-api-on-python-flask-mysql]()
 
-![Flask](./AWS/Portfolio/flask-01-02-hello-world-app-Jinja-Template/flask.png)
+<!--![tf-phonebook.png](./DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png)-->
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/202-Terraform-Phonebook-Application-deployed-on-AWS/tf-phonebook.png" width="65%">
 
 - ### [204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql]()
 
