@@ -6,7 +6,10 @@
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - ⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
 - 📫 How to reach me: hamidgokce@gmail.com
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/abdulhamid-gokce/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hamidgokce) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/abdulhamid-gokce/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF9800?style=flat-quare&labelColor=FF9800&logo=Gmail&logoColor=white&link=link)](hamidgokce@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hamidgokce) 
 
 
 
