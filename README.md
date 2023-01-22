@@ -104,8 +104,7 @@ List of projects as follows;
 
 - ### [502-microservices-ci-cd-pipeline-with-database](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/502-microservices-ci-cd-pipeline-with-database/README.md)
 
-<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/502-microservices-ci-cd-pipeline-with-database/pipeline.png" width="65%">
-
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/502-microservices-ci-cd-pipeline-with-database/clinic.png" width="65%">
 
  **Languages and Tools:**
  
