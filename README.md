@@ -102,7 +102,7 @@ List of projects as follows;
 
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/DevOps/207-Ansible-publish-website-postgresql-nodejs-react/ansible.png" width="65%">
 
-- ### [502-microservices-ci-cd-pipeline-with-database](https://github.com/hamidgokce/clinic-microservice/blob/main/clinic.png)
+- ### [502-microservices-ci-cd-pipeline-with-database](https://github.com/hamidgokce/clinic-microservice/blob/main/README2.md)
 
 <img src="https://github.com/hamidgokce/clinic-microservice/blob/main/clinic.png" width="65%">
 
