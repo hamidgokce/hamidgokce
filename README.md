@@ -109,10 +109,10 @@ List of projects as follows;
 
 ## [Real Time DevOps Project](https://www.udemy.com/share/103WWq3@oAs_BS8MNYbf61ju23CbKyzUoyY4hxpgxwNd8sLo3a-1pt2vfrteCOB-DbO707vwXg==/)
 
-- ### [Project-1_Multi Tier Web Application Stack Setup Locally](./Real_Time_DevOps_Project/Project-1_Multi%20Tier%20Web%20Application%20Stack%20Setup%20Locally/README.md)
-- ### [Project-2_Automated Setup of Multi Tier App](./Real_Time_DevOps_Project/Project-2_Automated%20Setup%20of%20Multi%20Tier%20App/README.md)
+- ### [Project-1_Multi Tier Web Application Stack Setup Locally](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-1_Multi%20Tier%20Web%20Application%20Stack%20Setup%20Locally/README.md)
+- ### [Project-2_Automated Setup of Multi Tier App](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-2_Automated%20Setup%20of%20Multi%20Tier%20App/README.md)
 
-<img src=".\Real_Time_DevOps_Project\Project-1_Multi Tier Web Application Stack Setup Locally\images\Multi_Tier_Web_Application_Stack_Setup_Locally.png" width="65%">
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/Real_Time_DevOps_Project\Project-1_Multi Tier Web Application Stack Setup Locally\images\Multi_Tier_Web_Application_Stack_Setup_Locally.png" width="65%">
 
  **Languages and Tools:**
  
