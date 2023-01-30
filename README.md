@@ -107,7 +107,7 @@ List of projects as follows;
 <img src="https://github.com/hamidgokce/clinic-microservice/blob/main/clinic.png" width="65%">
 
 
-## [Real Time DevOps Project](https://www.udemy.com/share/103WWq3@oAs_BS8MNYbf61ju23CbKyzUoyY4hxpgxwNd8sLo3a-1pt2vfrteCOB-DbO707vwXg==/)
+## [Real Time DevOps Project](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
 - ### [Project-1_Multi Tier Web Application Stack Setup Locally](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-1_Multi%20Tier%20Web%20Application%20Stack%20Setup%20Locally/README.md)
 - ### [Project-2_Automated Setup of Multi Tier App](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-2_Automated%20Setup%20of%20Multi%20Tier%20App/README.md)
