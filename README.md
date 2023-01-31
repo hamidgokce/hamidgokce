@@ -110,9 +110,13 @@ List of projects as follows;
 ## [Real Time DevOps Project](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
 - ### [Project-1_Multi Tier Web Application Stack Setup Locally](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-1_Multi%20Tier%20Web%20Application%20Stack%20Setup%20Locally/README.md)
+
 - ### [Project-2_Automated Setup of Multi Tier App](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-2_Automated%20Setup%20of%20Multi%20Tier%20App/README.md)
 
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-1_Multi%20Tier%20Web%20Application%20Stack%20Setup%20Locally/images/Multi_Tier_Web_Application_Stack_Setup_Locally.png" width="65%">
+
+- ### [Project-3_Lift and Shift Application Workload to AWS](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-3_Lift%20and%20Shift%20Application%20Workload%20to%20AWS/README.md)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-3_Lift%20and%20Shift%20Application%20Workload%20to%20AWS/images/Project-3.png" width="65%">
 
  **Languages and Tools:**
  
