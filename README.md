@@ -118,6 +118,9 @@ List of projects as follows;
 - ### [Project-3_Lift and Shift Application Workload to AWS](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-3_Lift%20and%20Shift%20Application%20Workload%20to%20AWS/README.md)
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-3_Lift%20and%20Shift%20Application%20Workload%20to%20AWS/images/Project-3.png" width="65%">
 
+- ### [Project-4_ Re-Architecting Web App on AWS Cloud[Cloud Native]](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-4_%20Re-Architecting%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D/README.md)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-4_%20Re-Architecting%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D/images/Project-4.png" width="65%">
+
  **Languages and Tools:**
  
  <p>
