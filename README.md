@@ -121,6 +121,9 @@ List of projects as follows;
 - ### [Project-4_ Re-Architecting Web App on AWS Cloud[Cloud Native]](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-4_%20Re-Architecting%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D/README.md)
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-4_%20Re-Architecting%20Web%20App%20on%20AWS%20Cloud%5BCloud%20Native%5D/images/Project-4.png" width="65%">
 
+- ### [Project-5_ CI Project with Jenkins, Nexus,SonarQube and Slack](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-5_%20CI%20Project%20with%20Jenkins%2C%20Nexus%2CSonarQube%20and%20Slack/README.md)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-5_%20CI%20Project%20with%20Jenkins%2C%20Nexus%2CSonarQube%20and%20Slack/images/PROJECT-5.png" width="65%">
+
  **Languages and Tools:**
  
  <p>
