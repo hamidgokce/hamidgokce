@@ -124,6 +124,9 @@ List of projects as follows;
 - ### [Project-5_ CI Project with Jenkins, Nexus,SonarQube and Slack](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-5_%20CI%20Project%20with%20Jenkins%2C%20Nexus%2CSonarQube%20and%20Slack/README.md)
 <img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-5_%20CI%20Project%20with%20Jenkins%2C%20Nexus%2CSonarQube%20and%20Slack/images/PROJECT-5.png" width="65%">
 
+- ### [Project-6_ Continuous Integration on AWS](https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-6_%20Continuous%20Integration%20on%20AWS/README.md)
+<img src="https://github.com/hamidgokce/COURSE-PROJECTS--AWS-DEVOPS/blob/main/Real_Time_DevOps_Project/Project-6_%20Continuous%20Integration%20on%20AWS/images/Project-6.png" width="65%">
+
  **Languages and Tools:**
  
  <p>
